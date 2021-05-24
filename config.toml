@@ -1,0 +1,185 @@
+server_list = ['ev-canada', 'moulticast-uk-ipv4', 'dnscrypt.ca-2-ipv6', 'sth-dnscrypt-se', 'scaleway-fr-ipv6', 'adguard-dns-unfiltered', 'acsacsar-ams-ipv6', 'dnscrypt.be', 'moulticast-sg-ipv4', 'freetsa.org-ipv6', 'd0wn-tz-ns1-ipv6', 'moulticast-fr-ipv4', 'dnscrypt.eu-nl-ipv6', 'dnscrypt.eu-dk-ipv6', 'ffmuc.net', 'dnscrypt.ca-2', 'opennic-fische', 'd0wn-is-ns2', 'dnscrypt.eu-dk', 'dnscrypt.one', 'moulticast-sg-ipv6', 'dnscrypt.eu-nl', 'faelix-uk-ipv4', 'meganerd', 'opennic-R4SAS', 'sarpel-dns-istanbul', 'faelix-uk-ipv6', 'scaleway-ams-ipv6', 'dnscrypt.ca-1', 'moulticast-ca-ipv4', 'plan9-dns', 'jp.tiar.app-ipv6', 'd0wn-tz-ns1', 'zackptg5-us-il-ipv4', 'pwoss.org-dnscrypt', 'publicarray-au2', 'zackptg5-us-il-ipv6', 'dnscrypt.uk-ipv6', 'faelix-ch-ipv4', 'jp.tiar.app', 'arvind-io', 'faelix-ch-ipv6', 'moulticast-de-ipv4', 'deffer-dns.au', 'dnscrypt.pl', 'serbica', 'publicarray-au', 'ffmuc.net-v6', 'ams-dnscrypt-nl-ipv6', 'dnscrypt.ca-1-ipv6', 'scaleway-ams', 'acsacsar-ams-ipv4', 'moulticast-ipv6', 'ventricle.us', 'meganerd-ipv6', 'moulticast-ca-ipv6', 'bcn-dnscrypt', 'v.dnscrypt.uk-ipv4', 'scaleway-fr', 'dnscrypt.uk-ipv4', 'v.dnscrypt.uk-ipv6']
+[static]
+[static.ev-canada]
+country=Canada
+stamp=sdns://AQcAAAAAAAAADjEwNC4zNi4xNDguMTkyICVfoDkWgfKPndAAvW1ke5CZIlsVj92u6qbBHHCZWgG9JzIuZG5zY3J5cHQtY2VydC5ldi1jYW5hZGEuZXZpbHZpYmVzLmNvbQ
+ [static.moulticast-uk-ipv4]
+country=France
+stamp=sdns://AQcAAAAAAAAADjUxLjE5NS4yMDAuMTgyIOdFe4OLrR_kCKC-8omGs5my5qxIyBgkldWZoSUmYvCNHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LXVr
+ [static.dnscrypt.ca-2-ipv6]
+country=Canada
+stamp=sdns://AQcAAAAAAAAAGFsyNjA3OjUzMDA6NjA6NjUyZjo6MjAwXSCYfHCol9vaFRo0rUtV6oAO9WHMBKrVxX3Sw9hh_Bf0KSIyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuY2EtMi1pcHY2
+ [static.sth-dnscrypt-se]
+country=Bulgaria
+stamp=sdns://AQcAAAAAAAAAEjQ1LjE1My4xODcuOTY6NDM0MyC8E4j1dj497HXxyQ_JFb-2iurf6xxF9phRgGOcYOfxYh8yLmRuc2NyeXB0LWNlcnQuc3RoLWRuc2NyeXB0LXNl
+ [static.scaleway-fr-ipv6]
+country=France
+stamp=sdns://AQcAAAAAAAAAF1syMDAxOmJjODo0N2IwOjFhMDE6OjFdIOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
+ [static.adguard-dns-unfiltered]
+country=Russia
+stamp=sdns://AQcAAAAAAAAAFDE3Ni4xMDMuMTMwLjEzNjo1NDQzILXoRNa4Oj4-EmjraB--pw3jxfpo29aIFB2_LsBmstr6JTIuZG5zY3J5cHQudW5maWx0ZXJlZC5uczEuYWRndWFyZC5jb20
+ [static.acsacsar-ams-ipv6]
+country=Netherlands
+stamp=sdns://AQcAAAAAAAAAFlsyMDAxOmJjODoxODI0OjczODo6MV0gAyfzz5J-mV9G-yOB4Hwcdk7yX12EQs5Iva7kV3oGtlEgMi5kbnNjcnlwdC1jZXJ0LmFjc2Fjc2FyLWFtcy5jb20
+ [static.dnscrypt.be]
+country=Belgium
+stamp=sdns://AQcAAAAAAAAADzE5My4xOTEuMTg3LjEwNyAzWmXOT_I8k2BKJzxIJ_iYoXRQRWcR0Q1FFyrJWtvogxsyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuYmU
+ [static.moulticast-sg-ipv4]
+country=Singapore
+stamp=sdns://AQcAAAAAAAAADTUxLjc5LjE1OC4xODMgL4fe2yQRI0ljCMe05zhSmeKGYz-izKVjyE040Ovq-gUdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3Qtc2c
+ [static.freetsa.org-ipv6]
+country=United States
+stamp=sdns://AQcAAAAAAAAAH1syNjA3OmYxMzA6MDpmODo6MzA4NTplOTYxXTo1NTMg2P-7QuAxvnp5cwtFVo1Jak6Ky1mqg2b9arkeJyp9FuQbMi5kbnNjcnlwdC1jZXJ0LmZyZWV0c2Eub3Jn
+ [static.d0wn-tz-ns1-ipv6]
+country=Tanzania
+stamp=sdns://AQcAAAAAAAAAGFsyYzBmOmZkYTg6NTo6MmVkMTpkMmVjXSDWBhX70UU7oU52ij5cXLOsF0YTMUY9oK-M998E2k11bRsyLmRuc2NyeXB0LWNlcnQudHouZDB3bi5iaXo
+ [static.moulticast-fr-ipv4]
+country=France
+stamp=sdns://AQcAAAAAAAAADTE5My4yMDAuNDMuMjUgdahEBxLVMuwDPeuVlJbOFrrDypHdrAlyIm7FrDgPyMgdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZnI
+ [static.dnscrypt.eu-nl-ipv6]
+country=Netherlands
+stamp=sdns://AQcAAAAAAAAAGlsyYTAwOmQ4ODA6MzoxOjphNmMxOjJlODldIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjEuZG5zY3J5cHQuZXU
+ [static.dnscrypt.eu-dk-ipv6]
+country=Denmark
+stamp=sdns://AQcAAAAAAAAAFFsyMDAxOjE0NDg6MjQzOjpkYzJdIDdIVYXjudCI_SWtNrA3AfVSDNZInprdUhRXSVWfCplVJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjIuZG5zY3J5cHQuZXU
+ [static.ffmuc.net]
+country=Germany
+stamp=sdns://AQcAAAAAAAAADzUuMS42Ni4yNTU6ODQ0MyAH0Hrxz9xdmXadPwJmkKcESWXCdCdseRyu9a7zuQxG-hkyLmRuc2NyeXB0LWNlcnQuZmZtdWMubmV0
+ [static.dnscrypt.ca-2]
+country=Canada
+stamp=sdns://AQcAAAAAAAAADTE0OS41Ni4yMjguNDUgAQhUqztWp-7505FY_vaCC_-TojV8iRYI254V07vgEYUdMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LmNhLTI
+ [static.opennic-fische]
+country=Germany
+stamp=sdns://AQcAAAAAAAAAEDc4LjQ3LjI0My4zOjEwNTMgN4CAbUDR-b3uJJMVzfCdL9ivVV7s8wRhifLRPWBfSmQdMi5kbnNjcnlwdC1jZXJ0Lm5zMS5maXNjaGUuaW8
+ [static.d0wn-is-ns2]
+country=Iceland
+stamp=sdns://AQcAAAAAAAAADTkzLjk1LjIyNi4xNjUghGA0qcYwyjwErEqQFiXxeoeyrLlBgKxIHiwQ6M7eGm8cMi5kbnNjcnlwdC1jZXJ0LmlzMi5kMHduLmJpeg
+ [static.dnscrypt.eu-dk]
+country=Denmark
+stamp=sdns://AQcAAAAAAAAADDc3LjY2Ljg0LjIzMyA3SFWF47nQiP0lrTawNwH1UgzWSJ6a3VIUV0lVnwqZVSUyLmRuc2NyeXB0LWNlcnQucmVzb2x2ZXIyLmRuc2NyeXB0LmV1
+ [static.dnscrypt.one]
+country=Germany
+stamp=sdns://AQcAAAAAAAAADTE2MS45Ny4xMDEuNTEgCjK6MsxRVt6dNByNcgmcutGvdW71yaYVnUlRM4DN6h4cMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0Lm9uZQ
+ [static.moulticast-sg-ipv6]
+country=Singapore
+stamp=sdns://AQcAAAAAAAAAGlsyNDAyOjFmMDA6ODAwMDo4MDA6OjEyYmFdIC-H3tskESNJYwjHtOc4UpnihmM_osylY8hNONDr6voFHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LXNn
+ [static.dnscrypt.eu-nl]
+country=Netherlands
+stamp=sdns://AQcAAAAAAAAADjE3Ni41Ni4yMzcuMTcxIGfADywhxVSBRd18tGonGvLrlpkxQKMJtiuNFlMRhZxmJTIuZG5zY3J5cHQtY2VydC5yZXNvbHZlcjEuZG5zY3J5cHQuZXU
+ [static.faelix-uk-ipv4]
+country=United Kingdom
+stamp=sdns://AQcAAAAAAAAAEjQ2LjIyNy4yMDAuNTQ6ODQ0MyB-y-8-LwGAMo1g4OHR7CPk6HfY6gmhk3AaBNazwL6L4R8yLmRuc2NyeXB0LWNlcnQucmRucy5mYWVsaXgubmV0
+ [static.meganerd]
+country=Netherlands
+stamp=sdns://AQcAAAAAAAAADjEzNi4yNDQuOTcuMTE0IPyq3HBOXuNgu6FO4pU71Si6CTV6kPD85NA6AThr_6tiGDIuZG5zY3J5cHQtY2VydC5tZWdhbmVyZA
+ [static.opennic-R4SAS]
+country=Italy
+stamp=sdns://AQcAAAAAAAAADTE1MS44MC4yMjIuNzkgqdYyOk8lgAkmGXUVAs4jHh922d53bIfGu7KKDv_bDk4gMi5kbnNjcnlwdC1jZXJ0Lm9wZW5uaWMuaTJwZC54eXo
+ [static.sarpel-dns-istanbul]
+country=Turkey
+stamp=sdns://AQcAAAAAAAAADzE4NS4xNTMuMjQ5LjIzOSDkXGvqcMO6TaLJUSkr49jGcXvjT3q1ZyiO-Oy6uE-40jAyLmRuc2NyeXB0LWNlcnQuMTg1LTE1My0yNDktMjM5LmluZi5jbG91ZGVvcy5uZXQ
+ [static.faelix-uk-ipv6]
+country=United Kingdom
+stamp=sdns://AQcAAAAAAAAAFFsyYTAxOjllMDA6OjU0XTo4NDQzIH7L7z4vAYAyjWDg4dHsI-Tod9jqCaGTcBoE1rPAvovhHzIuZG5zY3J5cHQtY2VydC5yZG5zLmZhZWxpeC5uZXQ
+ [static.scaleway-ams-ipv6]
+country=Netherlands
+stamp=sdns://AQcAAAAAAAAAFlsyMDAxOmJjODoxODIwOjUwZDo6MV0g6Q3ZfapcbHgiHKLF7QFoli0Ty1Vsz3RXs1RUbxUrwZAcMi5kbnNjcnlwdC1jZXJ0LnNjYWxld2F5LWFtcw
+ [static.dnscrypt.ca-1]
+country=Canada
+stamp=sdns://AQcAAAAAAAAADzE2Ny4xMTQuMjIwLjEyNSAaU6PJUHicvdELGTOkaJtshGpA8bc9F1KuysmCnst84h0yLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuY2EtMQ
+ [static.moulticast-ca-ipv4]
+country=Canada
+stamp=sdns://AQcAAAAAAAAADTE0OS41Ni4xNC4xNTkggqVNQrswzoCc-93hdnomI0UwlYC3q80lR9-79MEC3xUdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtY2E
+ [static.plan9-dns]
+country=United States
+stamp=sdns://AQcAAAAAAAAADjE3My4xOTkuMTI2LjM1IJLwH3z8-G6TDyEk6yXMmGxuss7nGfFnkHrtm4VOSc9SGTIuZG5zY3J5cHQtY2VydC5wbGFuOS1kbnM
+ [static.jp.tiar.app-ipv6]
+country=Japan
+stamp=sdns://AQcAAAAAAAAAJVsyNDAwOjg5MDI6OmYwM2M6OTFmZjpmZWRhOmM1MTRdOjE0NDMgMrh2PvG_ZTah3moTwM1vSKF544i2maU3jW1bPEzfVFMbMi5kbnNjcnlwdC1jZXJ0LmpwLnRpYXIuYXBw
+ [static.d0wn-tz-ns1]
+country=Tanzania
+stamp=sdns://AQcAAAAAAAAACzQxLjc5LjY5LjEzINYGFfvRRTuhTnaKPlxcs6wXRhMxRj2gr4z33wTaTXVtGzIuZG5zY3J5cHQtY2VydC50ei5kMHduLmJpeg
+ [static.zackptg5-us-il-ipv4]
+country=United States
+stamp=sdns://AQcAAAAAAAAADTEzNy4yMjAuNTkuNjIgTNMjCh27ODMeT_zUDR4yV_L9iWnqXTyyMuyLeAQW0eceMi5kbnNjcnlwdC1jZXJ0LnphY2twdGc1LXVzLWls
+ [static.pwoss.org-dnscrypt]
+country=Germany
+stamp=sdns://AQcAAAAAAAAAEzQ1LjE0Mi4xNzYuMTcwOjQ0MzQgZF8FTkuFVFw6YP5x8ydebnTb8ONP7Ti6P0K1REyhUHgZMi5kbnNjcnlwdC1jZXJ0LnB3b3NzLm9yZw
+ [static.publicarray-au2]
+country=Australia
+stamp=sdns://AQcAAAAAAAAAEjEzOS45OS4yMjIuNzI6ODQ0MyCH8q9RBc6SiI6_tBYIuyfkh13C3UaDhV-k_d3XspWMNBsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
+ [static.zackptg5-us-il-ipv6]
+country=United States
+stamp=sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NWMwMToxNDdlOjU0MDA6M2ZmOmZlMmE6M2IxZl0gTNMjCh27ODMeT_zUDR4yV_L9iWnqXTyyMuyLeAQW0eceMi5kbnNjcnlwdC1jZXJ0LnphY2twdGc1LXVzLWls
+ [static.dnscrypt.uk-ipv6]
+country=United Kingdom
+stamp=sdns://AQcAAAAAAAAAGlsyYTAzOmIwYzA6MTplMDo6NDg3OjEwMDFdIAHTDugOIE3aGHHToQ8oUVRnZb8UtNpEBKT_BG19qWg8GzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC51aw
+ [static.faelix-ch-ipv4]
+country=Switzerland
+stamp=sdns://AQcAAAAAAAAAEzE4NS4xMzQuMTk2LjU0Ojg0NDMgfsvvPi8BgDKNYODh0ewj5Oh32OoJoZNwGgTWs8C-i-EfMi5kbnNjcnlwdC1jZXJ0LnJkbnMuZmFlbGl4Lm5ldA
+ [static.jp.tiar.app]
+country=Japan
+stamp=sdns://AQcAAAAAAAAAEjE3Mi4xMDQuOTMuODA6MTQ0MyAyuHY-8b9lNqHeahPAzW9IoXnjiLaZpTeNbVs8TN9UUxsyLmRuc2NyeXB0LWNlcnQuanAudGlhci5hcHA
+ [static.arvind-io]
+country=India
+stamp=sdns://AQcAAAAAAAAAFDIwNi4xODkuMTQyLjE3OTo1MzUzII5GJ8c4g6hRAwghulrn5dBB9KrvlbeCkBbLZR2HwyjJGTIuZG5zY3J5cHQtY2VydC5hcnZpbmQuaW8
+ [static.faelix-ch-ipv6]
+country=Switzerland
+stamp=sdns://AQcAAAAAAAAAFFsyYTAxOjllMDE6OjU0XTo4NDQzIH7L7z4vAYAyjWDg4dHsI-Tod9jqCaGTcBoE1rPAvovhHzIuZG5zY3J5cHQtY2VydC5yZG5zLmZhZWxpeC5uZXQ
+ [static.moulticast-de-ipv4]
+country=France
+stamp=sdns://AQcAAAAAAAAADTUxLjE5NS4xMTcuMjYgI0N2y9-Xq_-5VbF43rxF6u10RV5LphBpRaTRNZuAOnAdMi5kbnNjcnlwdC1jZXJ0Lm1vdWx0aWNhc3QtZGU
+ [static.deffer-dns.au]
+country=Australia
+stamp=sdns://AQcAAAAAAAAADTUyLjY1LjIzNS4xMjkg5Q00RDDBkwx3fUaa0_etjz4iH3lLBOqsg95bYDmV07MdMi5kbnNjcnlwdC1jZXJ0LmRlZmZlci1kbnMuYXU
+ [static.dnscrypt.pl]
+country=Poland
+stamp=sdns://AQcAAAAAAAAAFDE3OC4yMTYuMjAxLjEyODoyMDUzIH9hfLgepVPSNMSbwnnHT3tUmAUNHb8RGv7mmWPGR6FpGzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5wbA
+ [static.serbica]
+country=Netherlands
+stamp=sdns://AQcAAAAAAAAAEzE4NS42Ni4xNDMuMTc4OjUzNTMg-Y2MQmGOXiggAEKulN-ITGEn_Kj3TIP1UK1X2wh3o7wXMi5kbnNjcnlwdC1jZXJ0LnNlcmJpY2E
+ [static.publicarray-au]
+country=Australia
+stamp=sdns://AQcAAAAAAAAADDQ1Ljc2LjExMy4zMSAIVGh4i6eKXqlF6o9Fg92cgD2WcDvKQJ7v_Wq4XrQsVhsyLmRuc2NyeXB0LWNlcnQuZG5zLnNlYnkuaW8
+ [static.ffmuc.net-v6]
+country=None
+stamp=sdns://AQcAAAAAAAAAGlsyMDAxOjY3ODplNjg6ZjAwMDo6XTo4NDQzIAfQevHP3F2Zdp0_AmaQpwRJZcJ0J2x5HK71rvO5DEb6GTIuZG5zY3J5cHQtY2VydC5mZm11Yy5uZXQ
+ [static.ams-dnscrypt-nl-ipv6]
+country=Netherlands
+stamp=sdns://AQcAAAAAAAAAHFsyMDAxOmJjODoxODMwOjIwMTg6OjFdOjQzNDMgvBOI9XY-Pex18ckPyRW_torq3-scRfaYUYBjnGDn8WIfMi5kbnNjcnlwdC1jZXJ0LmFtcy1kbnNjcnlwdC1ubA
+ [static.dnscrypt.ca-1-ipv6]
+country=Canada
+stamp=sdns://AQcAAAAAAAAAJlsyNjA3OjUzMDA6NjE6OTVmOjcyODM6MTFkOTowZjg2OmU2ODldICDZGdTsPFAIzccKUeorT8v-ipk8ZDHQ7GgdXqc4RauAIjIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5jYS0xLWlwdjY
+ [static.scaleway-ams]
+country=Netherlands
+stamp=sdns://AQcAAAAAAAAADTUxLjE1LjEyMi4yNTAg6Q3ZfapcbHgiHKLF7QFoli0Ty1Vsz3RXs1RUbxUrwZAcMi5kbnNjcnlwdC1jZXJ0LnNjYWxld2F5LWFtcw
+ [static.acsacsar-ams-ipv4]
+country=France
+stamp=sdns://AQcAAAAAAAAADTUxLjE1OC4xNjYuOTcgAyfzz5J-mV9G-yOB4Hwcdk7yX12EQs5Iva7kV3oGtlEgMi5kbnNjcnlwdC1jZXJ0LmFjc2Fjc2FyLWFtcy5jb20
+ [static.moulticast-ipv6]
+country=Switzerland
+stamp=sdns://AQcAAAAAAAAAFVsyMDAxOjY3ODpkMDg6ZmY6OjU0XSA71VxH3ImIQdj36bGmC0PNbtpWJwAvNiYqBqtFG9XvfCcyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQubW91bHRpY2FzdC5uZXQ
+ [static.ventricle.us]
+country=United States
+stamp=sdns://AQcAAAAAAAAADTEwNy4xNzAuNTcuMzQg6YXxGK1OPMZf8iUgGJDG9Vi3W1pS9WsXz-rBAFyLm6olMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LnZlbnRyaWNsZS51cw
+ [static.meganerd-ipv6]
+country=United States
+stamp=sdns://AQcAAAAAAAAAJ1syMDAxOjE5ZjA6NTAwMTpjYmI6NTQwMDozZmY6ZmUwNzpmNzBkXSD8qtxwTl7jYLuhTuKVO9Uougk1epDw_OTQOgE4a_-rYhgyLmRuc2NyeXB0LWNlcnQubWVnYW5lcmQ
+ [static.moulticast-ca-ipv6]
+country=Canada
+stamp=sdns://AQcAAAAAAAAAGlsyNjA3OjUzMDA6MjAxOjMxMDA6OjNkZmJdIIKlTUK7MM6AnPvd4XZ6JiNFMJWAt6vNJUffu_TBAt8VHTIuZG5zY3J5cHQtY2VydC5tb3VsdGljYXN0LWNh
+ [static.bcn-dnscrypt]
+country=Spain
+stamp=sdns://AQcAAAAAAAAAEzE4NS4yNTMuMTU0LjY2OjQzNDMg_IlDWhFp1tL1VycXVO3QTEiQIKG_1OwG4tNTAD-nLj0cMi5kbnNjcnlwdC1jZXJ0LmJjbi1kbnNjcnlwdA
+ [static.v.dnscrypt.uk-ipv4]
+country=United Kingdom
+stamp=sdns://AQcAAAAAAAAADzEwNC4yMzguMTg2LjE5MiDtST2M6teQZk8GPEe3lZojaS18kDY8nkPMtZF75bQe5R0yLmRuc2NyeXB0LWNlcnQudi5kbnNjcnlwdC51aw
+ [static.scaleway-fr]
+country=France
+stamp=sdns://AQcAAAAAAAAADjIxMi40Ny4yMjguMTM2IOgBuE6mBr-wusDOQ0RbsV66ZLAvo8SqMa4QY2oHkDJNHzIuZG5zY3J5cHQtY2VydC5mci5kbnNjcnlwdC5vcmc
+ [static.dnscrypt.uk-ipv4]
+country=United States
+stamp=sdns://AQcAAAAAAAAADTE2NS4yMzIuMzIuOTUgAdMO6A4gTdoYcdOhDyhRVGdlvxS02kQEpP8EbX2paDwbMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeXB0LnVr
+ [static.v.dnscrypt.uk-ipv6]
+country=United States
+stamp=sdns://AQcAAAAAAAAAKFsyMDAxOjE5ZjA6NzQwMjoxNTc0OjU0MDA6MmZmOmZlNjY6MmNmZl0g7Uk9jOrXkGZPBjxHt5WaI2ktfJA2PJ5DzLWRe-W0HuUdMi5kbnNjcnlwdC1jZXJ0LnYuZG5zY3J5cHQudWs

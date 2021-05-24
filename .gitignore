@@ -1,0 +1,6 @@
+simple/share/dsvpn/vpn_key
+*.pem
+*.sqlite
+**/**/migrations
+simple/share/dnscrypt/**
+simple/share/dsvpn/**
