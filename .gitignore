@@ -1,6 +1,6 @@
 simple/share/dsvpn/vpn_key
 *.pem
-*.sqlite
+*.sqlite3
 **/**/migrations
 **/**/__pycache__
 **/__pycache__
