@@ -174,5 +174,21 @@ def get_stride(stop, ndim=5):
 #    print(view[-1].tolist())
 
 
-
-
+if __name__ == "__main__":
+    import sys
+    import os
+#    primes = magic1(sys.argv[1])
+    FILENAME, EXT = "primes", "txt"
+    PATH = os.path.join(os.path.curdir, FILENAME+os.path.extsep+EXT)
+#    HANDLE = open(PATH, 'w')
+    RANGE = int(sys.argv[1])
+    with open(PATH, 'w+') as FILE:
+        print("The primes are calculated, printing them (slowly):\n")
+        primes = magic1(RANGE)
+        print(primes)
+        for x in primes:
+            print(x, file=FILE)
+#        print([x for x in primes], file=FILE)
+        for x in primes:
+            print(x)
+#    HANDLE.close()
