@@ -33,6 +33,11 @@ Using filters that I prefer ('DNSCrypt', 'DNSSEC' and nolog and nofilter enabled
 python3 filter.py
 ```
 
+## magic prime sieve  
+Calculate (very fast) primes in range and slowly print. 
+~30 seconds to print 1M (no I didn't create the sieve)
+
+`python3 numb.py <range>`
 
 ## walk.py
 crawl 'https://www.example.com'
