@@ -7,3 +7,4 @@ simple/share/dsvpn/vpn_key
 __pycache__
 simple/share/dnscrypt/**
 simple/share/dsvpn/**
+! simple/resolvers
